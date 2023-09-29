@@ -1,48 +1,48 @@
 const data = {
     products: [
         {
-            name: 'Ensemble de sport femme',
-            slug: 'Ensemble de sport femme',
+            name: 'Chemise femme',
+            slug: 'Chemise femme',
             category: 'T-shirt',
             image:'/images/p1.jpg',
             price: 120,
             countInStock: 100,
-            brand: 'Nike',
+            brand: '123',
             rating: 4.5,
             numReviews: 20,
-            description: 'Ensemble de haute qualité',
+            description: 'Chemise beige de haute qualité',
 
         },
 
         {
-            name: 'Un gilet imprimé',
-            slug: 'Un gilet imprimé',
-            category: 'T-shirt',
+            name: 'Jean',
+            slug: 'Un Jean',
+            category: 'Pantalons',
             image: '/images/p2.jpg',
             price: 50,
             countInStock: 0,
             brand: 'Mongo',
             rating: 4.0,
             numReviews: 10,
-            description: 'Gilet de haute qualité',
+            description: 'Pantalon de haute qualité',
 
         },
 
         {
-            name: 'Blazer femme',
-            slug: 'Blazer femme',
-            category: 'Pantalons',
+            name: 'Ensemble femme',
+            slug: 'Ensemble femme',
+            category: 'T-shirt',
             image: '/images/p3.jpg',
             price: 90,
             countInStock: 150,
             brand: 'Zara',
             rating: 4.5,
             numReviews: 14,
-            description: 'Blazer de haute qualité',
+            description: 'Ensemble de haute qualité',
         },
         {
-            name: 'Robe Rose Poudré',
-            slug: 'Robe Rose Poudré',
+            name: 'Ensemble de sport pour femme',
+            slug: 'Ensemble de sport pour femme',
             category: 'Pantalons',
             image: '/images/p4.jpg',
             price: 65,
@@ -50,7 +50,7 @@ const data = {
             brand: 'Massimo dutti',
             rating: 4.5,
             numReviews: 10,
-            description: 'Robe de haute qualité',
+            description: 'Ensemble de haute qualité',
         }    
     ],
 };
