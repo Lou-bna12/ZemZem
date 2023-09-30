@@ -85,6 +85,13 @@
     3. click handler for chekout
 
 18. Create Signin Screen
+
     1. create sign in form
     2. add mail and password
     3. add signing button
+
+19. Connect to MongoDB Database
+    1. ceate atlas mongoDB database
+    2. install local mongodb database
+    3. npm install mongoose
+    4. connect to mongodb database
